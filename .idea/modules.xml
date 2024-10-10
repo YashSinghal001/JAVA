@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OPPs/AccesModifier/AccesModifier.iml" filepath="$PROJECT_DIR$/OPPs/AccesModifier/AccesModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Practise/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BufferReaderr/BufferReaderr.iml" filepath="$PROJECT_DIR$/BufferReaderr/BufferReaderr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Claender/Claender.iml" filepath="$PROJECT_DIR$/Claender/Claender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise/CondtionalStatement/CondtionalStatement.iml" filepath="$PROJECT_DIR$/Practise/CondtionalStatement/CondtionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionsHandlings/ExceptionsHandlings.iml" filepath="$PROJECT_DIR$/ExceptionsHandlings/ExceptionsHandlings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileHandlingg/FileHandlingg.iml" filepath="$PROJECT_DIR$/FileHandlingg/FileHandlingg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise/Loops/Loops.iml" filepath="$PROJECT_DIR$/Practise/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPPs/OPPs.iml" filepath="$PROJECT_DIR$/OPPs/OPPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPPs/src/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/OPPs/src/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise/Practise.iml" filepath="$PROJECT_DIR$/Practise/Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Tasks.iml" filepath="$PROJECT_DIR$/Tasks/Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPPs/Test/Test.iml" filepath="$PROJECT_DIR$/OPPs/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Today/Today.iml" filepath="$PROJECT_DIR$/Today/Today.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/coreJava.iml" filepath="$PROJECT_DIR$/.idea/coreJava.iml" />
+    </modules>
+  </component>
+</project>
